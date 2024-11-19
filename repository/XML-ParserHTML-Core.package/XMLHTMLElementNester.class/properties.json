@@ -1,0 +1,20 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "XMLElementNester",
+	"category" : "XML-ParserHTML-Core-Drivers",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"HTMLTagInformation",
+		"RedundantEndTags",
+		"VoidElements"
+	],
+	"instvars" : [
+		"openElementsByName",
+		"startedHTMLSection",
+		"startedHeadSection",
+		"startedBodySection"
+	],
+	"name" : "XMLHTMLElementNester",
+	"type" : "normal"
+}

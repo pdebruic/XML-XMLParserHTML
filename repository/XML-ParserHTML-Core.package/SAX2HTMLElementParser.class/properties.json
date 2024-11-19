@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "monty 9/15/2017 07:40",
+	"super" : "SAX2ElementParser",
+	"category" : "XML-ParserHTML-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SAX2HTMLElementParser",
+	"type" : "normal"
+}

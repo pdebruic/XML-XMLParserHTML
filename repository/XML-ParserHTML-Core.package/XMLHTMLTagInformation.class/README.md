@@ -1,0 +1,1 @@
+This class is used by the element nester to store information about tags for faster lookup.

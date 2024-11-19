@@ -1,0 +1,3 @@
+testing
+isDeferringEvents
+	^ isDeferringEvents

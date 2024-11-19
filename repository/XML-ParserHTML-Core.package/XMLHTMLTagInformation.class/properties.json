@@ -1,0 +1,21 @@
+{
+	"commentStamp" : "monty 6/15/2015 05:37",
+	"super" : "Object",
+	"category" : "XML-ParserHTML-Core-Drivers",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"name",
+		"isHTMLTag",
+		"isHeadTag",
+		"isBodyTag",
+		"isBodySectionTag",
+		"isHeadSectionTag",
+		"isNonNestable",
+		"mutuallyExcludingTag",
+		"nestableTagGroup"
+	],
+	"name" : "XMLHTMLTagInformation",
+	"type" : "normal"
+}

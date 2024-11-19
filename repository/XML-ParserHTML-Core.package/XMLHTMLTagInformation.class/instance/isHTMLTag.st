@@ -1,0 +1,3 @@
+testing
+isHTMLTag
+	^ isHTMLTag

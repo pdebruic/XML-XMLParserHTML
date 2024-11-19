@@ -1,0 +1,1 @@
+A subclass for HTML that supports case-insensitive hex integer prefixes and a wider set of HTML separator characters.

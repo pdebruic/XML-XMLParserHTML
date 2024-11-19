@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "monty 7/8/2016 01:19",
+	"super" : "SAXParserDriver",
+	"category" : "XML-ParserHTML-Core-Drivers",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"deferredEvents",
+		"isDeferringEvents"
+	],
+	"name" : "SAXHTMLParserDriver",
+	"type" : "normal"
+}

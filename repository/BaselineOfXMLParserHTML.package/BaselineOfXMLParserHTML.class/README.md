@@ -1,0 +1,1 @@
+Baseline for Parsers for HTML that convert possibly malformed HTML into well-formed XML (see https://github.com/pharo-contributions/XML-XMLParserHTML)

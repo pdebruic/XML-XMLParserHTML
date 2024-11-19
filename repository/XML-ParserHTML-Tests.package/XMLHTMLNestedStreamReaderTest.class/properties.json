@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "XMLNestedStreamReaderTest",
+	"category" : "XML-ParserHTML-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "XMLHTMLNestedStreamReaderTest",
+	"type" : "normal"
+}

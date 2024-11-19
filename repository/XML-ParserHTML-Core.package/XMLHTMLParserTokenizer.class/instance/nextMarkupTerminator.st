@@ -1,0 +1,3 @@
+tokenizing
+nextMarkupTerminator
+	streamReader skipTo: $>

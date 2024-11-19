@@ -1,0 +1,37 @@
+{
+	"instance" : {
+		"endElement:" : "monty 5/20/2017 00:42",
+		"hasOpenElement:" : "monty 8/6/2016 19:54",
+		"initialize" : "monty 5/29/2015 20:51",
+		"mustEndHeadSectionForTag:" : "monty 5/30/2015 19:34",
+		"openElementsByName" : "monty 10/27/2014 09:10",
+		"mustStartBodySectionForTag:" : "monty 5/30/2015 19:36",
+		"cannotSelfNestTag:" : "monty 3/23/2016 01:49",
+		"startedHTMLSection" : "monty 5/29/2015 21:08",
+		"mustStartHeadSectionForTag:" : "monty 5/30/2015 19:37",
+		"elementsToEndBeforeStartTag:do:" : "monty 5/30/2015 21:24",
+		"isRedundantStartTag:" : "monty 8/6/2016 19:54",
+		"startedHeadSection" : "monty 5/29/2015 21:09",
+		"startedBodySection" : "monty 5/29/2015 21:08",
+		"beforePCDataElementsToEndDo:elementsToStartDo:" : "monty 5/30/2015 21:11",
+		"startElement:" : "monty 8/6/2016 19:54",
+		"elementsToStartBeforeStartTag:do:" : "monty 5/30/2015 22:07",
+		"beforeEnding:elementsToEndDo:" : "monty 8/6/2016 19:54",
+		"isVoidElement:" : "monty 8/6/2016 19:54",
+		"beforeStarting:elementsToEndDo:elementsToStartDo:" : "monty 8/6/2016 19:54",
+		"isRedundantEndTag:" : "monty 8/6/2016 19:54"
+	},
+	"class" : {
+		"nonNestableElements" : "monty 9/27/2016 21:30",
+		"initializeHTMLTagInformation" : "monty 9/27/2016 21:39",
+		"initializeRedundantEndTags" : "monty 10/28/2016 04:01",
+		"htmlTagInformationIn:named:" : "monty 9/27/2016 21:31",
+		"initialize" : "monty 6/15/2015 05:50",
+		"initializeVoidElements" : "monty 11/7/2014 20:08",
+		"bodySectionElements" : "monty 9/27/2016 21:33",
+		"mutuallyExcludingTags" : "monty 9/27/2016 21:29",
+		"nestableTagGroups" : "monty 9/27/2016 21:30",
+		"voidElements" : "monty 9/27/2016 21:31",
+		"headSectionElements" : "monty 9/27/2016 21:31"
+	}
+}
