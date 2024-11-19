@@ -11,7 +11,7 @@ baseline: spec
 			with: [ spec requires: #( 'XMLParser' ) ];
 			package: 'XML-ParserHTML-Tests'
 			with: [ 
-				spec requires: #( 'XMLParser Tests' 'XML-ParserHTML-Core' ) ].
+				spec requires: #( 'XMLParser Tools' 'XML-ParserHTML-Core' ) ].
 
 		"Groups"
 		spec
@@ -19,7 +19,7 @@ baseline: spec
 			group: 'Tools' with: #( 'XMLParser Tools' );
 			group: 'Tests' with: #( 'XML-ParserHTML-Tests' );
 			group: 'all' with: #( 'Core' 'Tools' 'Tests' );
-			group: 'default' with: #( 'all' ) ].
+			group: 'default' with: #( 'Core' ) ].
 	spec for: #gemstone do: [ 
 		spec
 			package: 'XML-ParserHTML-Core'
