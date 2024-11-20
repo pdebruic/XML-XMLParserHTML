@@ -4,21 +4,18 @@ baseline: spec
 	<baseline>
 	spec for: #common do: [ 
 		self xmlParserOn: spec.
-
-		"Packages"
 		spec
 			package: 'XML-ParserHTML-Core'
 			with: [ spec requires: #( 'XMLParser' ) ];
 			package: 'XML-ParserHTML-Tests'
 			with: [ 
-				spec requires: #( 'XMLParser Tools' 'XML-ParserHTML-Core' ) ].
+				spec requires: #( 'XML-ParserHTML-Core' 'XMLParser Tests') ].
 
 		"Groups"
 		spec
 			group: 'Core' with: #( 'XML-ParserHTML-Core' );
-			group: 'Tools' with: #( 'XMLParser Tools' );
 			group: 'Tests' with: #( 'XML-ParserHTML-Tests' );
-			group: 'all' with: #( 'Core' 'Tools' 'Tests' );
+			group: 'all' with: #( 'Core'  'Tests' );
 			group: 'default' with: #( 'Core' ) ].
 	spec for: #gemstone do: [ 
 		spec

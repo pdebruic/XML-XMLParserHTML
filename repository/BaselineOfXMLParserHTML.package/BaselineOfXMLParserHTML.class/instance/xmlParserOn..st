@@ -11,12 +11,8 @@ xmlParserOn: spec
 			spec
 				loads: #( 'Core' );
 				repository: 'github://gsdevkit/xml-xmlparser:gemstone/filetree' ] ].
-
 	spec for: #common do: [ 
 		spec
 			project: 'XMLParser Tests'
 			copyFrom: 'XMLParser'
-			with: [ spec loads: #( 'Tests' ) ];
-			project: 'XMLParser Tools'
-			copyFrom: 'XMLParser'
-			with: [ spec loads: #( 'Tools' ) ] ]
+			with: [ spec loads: #( 'Tests' ) ] ]
